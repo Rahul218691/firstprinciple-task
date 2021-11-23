@@ -1,0 +1,9 @@
+export {default as Header} from './Header'
+export {default as Crafted} from './CraftedSection'
+export {default as Pricing} from './PricingSection'
+export {default as CallToAction} from './CallToAction'
+export {default as Testimonials} from './Testimonials'
+export {default as ClientLogos} from './ClientLogos';
+export {default as ContactForm} from './ContactForm'
+export {default as Footer} from './Footer'
+export {default as ModalComponent} from './Modal'
